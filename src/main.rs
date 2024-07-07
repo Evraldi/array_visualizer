@@ -1,3 +1,5 @@
+//ui gw sampah amat yak
+
 use gtk::{prelude::*, Entry};
 use gtk::{
     Button, Label, TextView, Window, WindowType, Grid, Box, FileChooserDialog, FileChooserAction, ResponseType,
