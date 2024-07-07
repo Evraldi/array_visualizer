@@ -1,0 +1,10 @@
+[package]
+name = "array_visualizer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.9"  # Check for the latest version on crates.io
+glib = "0.10"  # Check for the latest version on crates.io
+rand = "0.8" # For shuffling, if used
+#csv = "1.1"
